@@ -12,9 +12,9 @@ coil-20-proc/
 
 # other
 *.pdf
-*.png
-*.jpg
-*.jpeg
+# *.png
+# *.jpg
+# *.jpeg
 
 # Distribution / packaging
 .Python
